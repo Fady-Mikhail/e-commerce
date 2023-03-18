@@ -1,0 +1,26 @@
+
+
+.footer{
+    background-color: black;
+    height: 25vh;
+    color: white;
+}
+
+/* #logo img{
+    width: 90%;
+    height: 90%;
+    z-index: 999;
+    
+} */
+#logo{
+    transform: scale(1.5);
+    margin-top: 40px;
+    text-align: center;
+    
+  
+
+}
+.FaFacebookF{
+    color: black;
+}
+

@@ -1,0 +1,70 @@
+ .fady {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    
+    
+    align-content:space-between; 
+    flex-wrap: wrap;
+
+    width: 300px;
+    /* min-height: 600px;
+    max-height: 600px; */
+    height: 600px;
+    margin: 10px;
+    /* background-color: blue; */
+    
+    
+    
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-body{
+    display: flex; 
+    flex-direction: column;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    height: 400px;
+    
+    
+    align-items: center;
+    text-align: center;
+    /* background-color: rgb(43, 255, 0); */
+    
+}
+.card-description{
+    height: 300px;
+    overflow: hidden;
+    /* border-bottom: 1px dotted gray; */
+    
+}
+
+.card img{
+   height: 200px;
+   width: 200px;
+   margin: auto;
+   padding: 5%;
+    
+    
+}
+
+.card-text{
+    display: flex;
+    /* flex-wrap: nowrap; */
+    height: 500px;
+    
+}
+
+.card-price{
+    /* font-size: large; */
+     font-weight: 800;
+     /* padding-top: 5px; */
+   
+    
+    
+   
+    
+}

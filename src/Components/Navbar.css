@@ -1,0 +1,12 @@
+.navbar-brand img{
+    max-width: 20%;
+    height: 20%;
+    z-index: 999;
+}
+
+
+.logo{
+    color: rgb(3, 114, 129);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} 
+
